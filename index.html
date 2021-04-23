@@ -1,0 +1,57 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <link rel="stylesheet" href="./assets/css/reset.css" />
+    <!-- JS file import -->
+    <script src="./assets/js/main.js"></script>
+    <!-- Axios import -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+    <title>Form 🦄 - Full-stack</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Contact form 🌸🌺🌸</h1>
+      <form id="contactForm">
+        <input
+          type="text"
+          placeholder="Your beautiful name"
+          id="firstname"
+          name="firstname"
+          required
+        />
+        <input
+          type="text"
+          placeholder="Your sweet lastname"
+          id="lastname"
+          name="lastname"
+          required
+        />
+        <input
+          type="email"
+          placeholder="Your email"
+          id="email"
+          name="email"
+          required
+        />
+        <input
+          type="text"
+          placeholder="What do you want to talk about?"
+          id="subject"
+          name="subject"
+          required
+        />
+        <textarea
+          placeholder="Hello sunshine, "
+          id="message"
+          name="message"
+          required
+        ></textarea>
+        <input type="submit" value="My message is ready!" />
+      </form>
+    </div>
+  </body>
+</html>
