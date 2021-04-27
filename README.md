@@ -3,7 +3,7 @@
 🗓 April 2021.  
 🪄 Frontend - contact form.  
 👀 Backend - look at the backend repo!  
-👉🏻 Check [my form](myform-lereacteur-2021.netlify.app)
+👉🏻 Check [that](https://myform-lereacteur-2021.netlify.app/)
 
 ## Welcome in my school exercice (contact form) 🌸🌺🌸
 
