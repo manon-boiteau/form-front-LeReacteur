@@ -1,20 +1,33 @@
-# form-front-LeReacteur
+# CONTACT FORM 💌
 
-🗓 April 2021.  
-🪄 Frontend - contact form.  
-👀 Backend - look at the backend repo!  
-👉🏻 Check [that](https://myform-lereacteur-2021.netlify.app/)
+🌤 April 2021  
+⚙️ Backend - check the backend [repo](https://github.com/manon-boiteau/form-back-LeReacteur)  
+✨ Frontend
 
-## Welcome in my school exercice (contact form) 🌸🌺🌸
+## 🌈 Overview - Welcome dude
 
-### My work?
+---
 
-To code the frontend (and also the backend ➡️ look at the repo!) of a contact form (I love colors 🌈)
+Contact form made at [Le Reacteur](https://www.lereacteur.io/) Bootcamp.  
+1 web page is available : colorful contact form.
 
 ![Contact form](assets/img/contact-form.png)
 
-## Languages
+## 👩🏻‍💻 Tasks
 
-HTML5, CSS3 & Vanilla JS.
+---
+
+✘ Layout  
+✘ Responsive  
+✘ Email regexp  
+✘ HTTP request
+
+## 📚 Stacks
+
+---
+
+[Vanilla Javascript](https://www.w3schools.com/js/default.asp)  
+[HTML5](https://www.w3schools.com/html/default.asp)  
+[CSS3](https://www.w3schools.com/css/default.asp)
 
 🙏🏻 Thank you @LeReacteur.
